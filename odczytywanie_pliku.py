@@ -36,4 +36,4 @@ for wiersz in tablica:
 print(wynik)
     
 np.savetxt('wsp_wynik.txt', wynik, delimiter = ',', fmt = ['%10.7f', '%10.7f','%10.3f','%10.3f','%10.3f','%10.3f','%10.3f','%10.3f','%10.3f','%10.3f'], 
-           header = 'Siarhei Leuchenia \n  Wydzial Geodezji i Kartografii \n Zamiana wspolrzednych geodezyjnych')
+header = 'Zamiana wspolrzednych geodezyjnych')
