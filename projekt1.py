@@ -296,3 +296,5 @@ if __name__ == "__main__":
     phi, lam, h = geo.xyz2plh(X, Y, Z)
     print(phi, lam, h)
 
+#zmiana1
+
